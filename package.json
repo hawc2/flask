@@ -1,0 +1,27 @@
+{
+  "name": "flask-data-viz",
+  "version": "1.0.0",
+  "description": "whatever",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawc2/flask.git"
+  },
+  "author": "Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hawc2/flask/issues"
+  },
+  "homepage": "https://github.com/hawc2/flask#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "yarn": "^1.22.10"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "popper": "^1.0.1",
+    "react": "^17.0.1"
+  }
+}
